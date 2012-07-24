@@ -1,0 +1,246 @@
+@CHARSET "UTF-8";
+
+
+/*Css Reset*/
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{
+	border:0;
+	outline:0;
+	font-size:100%;
+	vertical-align:baseline;
+	background:transparent;
+	margin:0;
+	padding:0;
+}
+ol, ul {
+	list-style:none;
+}
+
+blockquot, q{
+	quotes:none;
+}
+
+focus {
+	outline:0;
+}
+ins {
+	text-decoration:none;
+}
+del {
+	text-decoration:line-through;
+}
+table {
+	border-collapse:collapse;
+	border-spacing:0;
+}
+
+/*CSS reset over*/
+
+@font-face {
+   font-family: 'Cantarell';
+   src: url(./fonts/Cantarell-Regular.eot);
+   src: local('Cantarell'), url('./fonts/Cantarell-Regular.ttf') format('truetype');
+}
+
+body {
+	background:url('./images/background.jpg'),repeat-x,repeat-y;
+	color:#222;
+	font-family:Cantarell, "微软雅黑", sans-serif;
+	font-size:12px;
+}
+
+#control_panel {
+	margin:20px auto;
+	border:1px solid #a90329;
+	width:wrap_content;
+	padding:10px;
+	
+	border-radius:2em;
+	-webkit-border-radius:2em;
+	-moz-border-radius:2em;
+	
+	box-shadow:2px 3px 4px rgba(169,3,41,.5);
+	-webkit-box-shadow:2px 3px 4px rgba(169,3,41,.5);
+	-moz-box-shadow:2px 3px 4px rgba(169,3,41,.5);
+}
+
+#control_panel h1{
+	font-size:20px;
+	text-align:center;
+	font-style:normal;
+	margin:20px;
+	color:#333;
+}
+
+.form {
+	border:1px solid #a90329;
+	display:inline-block;
+	zoom: 1; /* ie7 hack for display:inline-block */
+	*display: inline;
+	padding:3px 5px;
+	
+	border-radius:2em;
+	-webkit-border-radius:2em;
+	-moz-border-radius:2em;
+	background:#f1f1f1;
+}
+
+.form .url {
+	font-family:Cantarell, "微软雅黑", sans-serif;
+	
+	background:#fff;
+	padding:6px 6px 6px 8px;
+	width:202px;
+	border:1px solid #bcbbbb;
+	font-size:11px;
+	color:#a90329;
+	font-weight:bold;
+	
+	
+	-webkit-border-radius:2em;
+	-moz-border-radius:2em;
+	border-radius:2em;
+	
+	-moz-box-shadow:inset 0px 1px 2px rgba(0,0,0,.2);
+	-webkit-box-shadow:inset 0px 1px 2px rgba(0,0,0,.2);
+	box-shadow:inset 0px 3px 3px rgba(0,0,0,.2);
+}
+
+.form .button {
+	font-family:Cantarell, "微软雅黑", sans-serif;
+	
+	color:#fff;
+	background:#5f5f5f;
+	border:1px solid #494949;
+	font-size:11px;
+	height:30px;
+	width:30px;
+	
+	-webkit-border-radius:2em;
+	-moz-border-radius:2em;
+	border-radius:2em;
+}
+
+span {
+	color:#333;
+}
+fieldset {
+	border:1px solid #a90329;
+	margin:10px 2px;
+}
+
+fieldset legend {
+	margin:10px;
+	padding:10px;
+	font-weight:bold;
+	color:#a90329;
+}
+
+fieldset div {
+	padding:10px 0px;
+}
+
+
+fieldset table#table_info {
+	margin:20px;
+	font-family:Cantarell, "微软雅黑", sans-serif;
+	font-size:12px;
+	color:#a90329;
+	
+}
+
+ table#table_info td.item {
+	font-weight:bold;
+	color:#a90329;
+	vertical-align:middle;
+ }
+ 
+fieldset table#table_info td {
+	padding:3px;
+	vertical-align:middle;
+}
+
+fieldset label {
+	width:50px
+	color:#666;
+	font-weight:bold;
+	line-height:14px;
+}
+
+ table#pretable {
+	 font-family:Cantarell, "微软雅黑", sans-serif;
+	 font-size:12px;
+	 margin:5px auto;
+ }
+ 
+ table#pretable th, table#pretable td {
+ 	padding:5px 15px;
+ }
+ 
+ #table_head {
+	 background-color:#1a5cc8;
+	 color:white;
+ }
+ 
+ #color {
+	 color:black;
+	 background-color:#D7EBFF;
+ }
+ 
+ #nocolor {
+	 color:black;
+ }
+ 
+ input.dbutton {
+ 	padding:7px;
+ 	font-family:Cantarell, "微软雅黑", sans-serif;
+ 	font-size:10px;
+ 	font-weight:bold;
+ 	background-color:#a90329;
+ 	color:#fff;
+ 	
+ 	border:#a90329 1px solid;
+ 	border-radius:0.7em;
+ 	
+ 	cursor:pointer;
+	width:90px;
+	height:30px;
+ 	box-shadow:inset 0px 4px 4px rgba(23,21,57,.5);
+ }
+ 
+  input.dbutton:focus {
+  	color:#a90329;
+  	background:#a90329;
+  }
+ 
+ ul.tablelist {
+ 	overflow:hidden;
+ 	font-size:15px;
+ 	font-weight:bold;
+ }
+ 
+ ul.tablelist li {
+ 	dispaly:inline;
+ 	float:left;
+ }
+ 
+ ul.tablelist li a{
+  	text-decoration:none;
+  	color:#333;
+  }
+  
+ ul.tablelist li a:hover{
+  	color:#a90329;
+  }
+ 
+ table.innertable td{
+ 	width:100px;
+ 	padding:0px;
+ 	margin:0px;
+ 	border:0px;
+ 	vertical-align:middle;
+ }
+ 
+  table.innertable label {
+  	color:#333;
+  	font-size:10px;
+  }

@@ -1,0 +1,96 @@
+@CHARSET "UTF-8";
+
+@font-face {
+   font-family: 'Cantarell';
+   src: url(./fonts/Cantarell-Regular.eot);
+   src: local('Cantarell'), url('./fonts/Cantarell-Regular.ttf') format('truetype');
+}
+
+/**
+ * style for table
+ */
+ body {
+ font-family:Cantarell, "微软雅黑", sans-serif;
+ font-size:12px;
+ }
+ 
+ table {
+ font-family:Cantarell, "微软雅黑", sans-serif;
+ font-size:12px;
+ }
+ 
+ th, td {
+ 	padding:5px 15px;
+ }
+ 
+ #table_head {
+ background-color:#1a5cc8;
+ color:white;
+ }
+ 
+ #color {
+ color:black;
+ background-color:#D7EBFF;
+ }
+ 
+ #nocolor {
+ color:black;
+ }
+ 
+ /**
+  *style for form
+  */
+div#content {
+  font-family:Cantarell, "微软雅黑", sans-serif;
+  font-size:12px;
+  text-align:center;
+}
+.form {
+	border:1px solid #a90329;
+	display:inline-block;
+	zoom: 1; /* ie7 hack for display:inline-block */
+	*display: inline;
+	padding:3px 5px;
+	
+	border-radius:2em;
+	-webkit-border-radius:2em;
+	-moz-border-radius:2em;
+	background:#f1f1f1;
+}
+
+.form input {
+	font-family:Cantarell, "微软雅黑", sans-serif;
+	
+	background:#fff;
+	padding:6px 6px 6px 8px;
+	width:202px;
+	border:1px solid #bcbbbb;
+	font-size:11px;
+	color:#a90329;
+	text-shadow:1px 2px 2px #a90329;
+	font-weight:bold;
+	
+	-webkit-border-radius:2em;
+	-moz-border-radius:2em;
+	border-radius:2em;
+	
+	-moz-box-shadow:inset 0px 1px 2px rgba(0,0,0,.2);
+	-webkit-box-shadow:inset 0px 1px 2px rgba(0,0,0,.2);
+	box-shadow:inset 0px 3px 3px rgba(0,0,0,.2);
+}
+
+.form .button {
+	font-family:Cantarell, "微软雅黑", sans-serif;
+	
+	color:#fff;
+	background:#5f5f5f;
+	border:1px solid #494949;
+	font-size:11px;
+	height:30px;
+	width:30px;
+	text-shadow:0px 1px 1px rgba(0,0,0,.6);
+	
+	-webkit-border-radius:2em;
+	-moz-border-radius:2em;
+	border-radius:2em;
+}

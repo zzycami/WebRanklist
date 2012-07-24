@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table>
+  <thead>
+    <th>";				TableEnd = "</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>";				TableEnd = "</td>
+    </tr>
+    <tr>
+      <td>ID</td>
+      <td>ContestName</td>
+      <td>Start Time (GMT+8)</td>
+      <td>End Time (GMT+8)</td>
+      <td>Type</td>
+      <td>Status</td>
+      <td>Holder</td>
+    </tr>
+    <tr>
+      <td>2375</td>
+      <td>&lt;a href="/vcontest/vtl/problemlist/showproblemlist/vtlid/2375"&gt;AC计划2&lt;/a&gt;</td>
+      <td>2011-09-25 12:00:00</td>
+      <td>2011-09-25 17:00:00</td>
+      <td>&lt;font color="red"&gt;Public&lt;/font&gt;</td>
+      <td>&lt;font color="green"&gt;Pending&lt;/font&gt;</td>
+      <td>&lt;a href=/vcontest/vtl/../../userstatus.php?user=shahdza&gt;夏天的风&lt;/a&gt;</td>
+    </tr>
+    <tr>
+      <td>2376</td>
+      <td>&lt;a href="/vcontest/vtl/problemlist/showproblemlist/vtlid/2376"&gt;AC计划3&lt;/a&gt;</td>
+      <td>2011-09-25 12:00:00</td>
+      <td>2011-09-25 17:00:00</td>
+      <td>&lt;font color="red"&gt;Public&lt;/font&gt;</td>
+      <td>&lt;font color="green"&gt;Pending&lt;/font&gt;</td>
+      <td>&lt;a href=/vcontest/vtl/../../userstatus.php?user=shahdza&gt;夏天的风&lt;/a&gt;</td>
+    </tr>
+    <tr>
+      <td>2377</td>
+      <td>&lt;a href="/vcontest/vtl/problemlist/showproblemlist/vtlid/2377"&gt;AC计划4&lt;/a&gt;</td>
+      <td>2011-09-25 12:00:00</td>
+      <td>2011-09-25 16:00:00</td>
+      <td>&lt;font color="red"&gt;Public&lt;/font&gt;</td>
+      <td>&lt;font color="green"&gt;Pending&lt;/font&gt;</td>
+      <td>&lt;a href=/vcontest/vtl/../../userstatus.php?user=shahdza&gt;夏天的风&lt;/a&gt;</td>
+    </tr>
+    <tr>
+      <td>2378</td>
+      <td>&lt;a href="/vcontest/vtl/problemlist/showproblemlist/vtlid/2378"&gt;AC计划5&lt;/a&gt;</td>
+      <td>2011-09-25 12:00:00</td>
+      <td>2011-09-25 15:00:00</td>
+      <td>&lt;font color="red"&gt;Public&lt;/font&gt;</td>
+      <td>&lt;font color="green"&gt;Pending&lt;/font&gt;</td>
+      <td>&lt;a href=/vcontest/vtl/../../userstatus.php?user=shahdza&gt;夏天的风&lt;/a&gt;</td>
+    </tr>
+    <tr>
+      <td>2372</td>
+      <td>&lt;a href="/vcontest/vtl/problemlist/showproblemlist/vtlid/2372"&gt;AC计划1&lt;/a&gt;</td>
+      <td>2011-09-25 12:00:00</td>
+      <td>2011-09-25 16:00:00</td>
+      <td>&lt;font color="red"&gt;Public&lt;/font&gt;</td>
+      <td>&lt;font color="green"&gt;Pending&lt;/font&gt;</td>
+      <td>&lt;a href=/vcontest/vtl/../../userstatus.php?user=shahdza&gt;夏天的风&lt;/a&gt;</td>
+    </tr>
+    <tr>
+      <td>2415</td>
+      <td>&lt;a href="/vcontest/vtl/problemlist/showproblemlist/vtlid/2415"&gt;中档题啊，fuck&lt;/a&gt;</td>
+      <td>2011-08-28 20:50:00</td>
+      <td>2011-08-29 01:50:00</td>
+      <td>&lt;font color="red"&gt;Public&lt;/font&gt;</td>
+      <td>&lt;font color="red"&gt;Running&lt;/font&gt;</td>
+      <td>&lt;a href=/vcontest/vtl/../../userstatus.php?user=ACMCUGB&gt;CUGB_Admin&lt;/a&gt;</td>
+    </tr>
+    <tr>
+      <td>2412</td>
+      <td>&lt;a href="/vcontest/vtl/problemlist/showproblemlist/vtlid/2412"&gt;CUGB-2011年ACM集训队暑期集训强化赛――10年杭州网络赛&lt;/a&gt;</td>
+      <td>2011-08-28 20:45:00</td>
+      <td>2011-08-29 01:45:00</td>
+      <td>&lt;font color="red"&gt;Public&lt;/font&gt;</td>
+      <td>&lt;font color="red"&gt;Running&lt;/font&gt;</td>
+      <td>&lt;a href=/vcontest/vtl/../../userstatus.php?user=ACMCUGB&gt;CUGB_Admin&lt;/a&gt;</td>
+    </tr>
+    <tr>
+      <td>2414</td>
+      <td>&lt;a href="/vcontest/vtl/problemlist/showproblemlist/vtlid/2414"&gt;Test&lt;/a&gt;</td>
+      <td>2011-08-28 12:50:00</td>
+      <td>2011-08-28 17:50:00</td>
+      <td>&lt;font color="red"&gt;Public&lt;/font&gt;</td>
+      <td>&lt;font color="gray"&gt;Ended&lt;/font&gt;</td>
+      <td>&lt;a href=/vcontest/vtl/../../userstatus.php?user=swm8023&gt;swm8023&lt;/a&gt;</td>
+    </tr>
+    <tr>
+      <td>2402</td>
+      <td>&lt;a href="/vcontest/vtl/vtl/userlogin/vtlid/2402"&gt;ACM-ICPC参赛资格赛 - 第二场&lt;/a&gt;</td>
+      <td>2011-08-28 12:00:00</td>
+      <td>2011-08-28 17:00:00</td>
+      <td>&lt;font color="green"&gt;Private&lt;/font&gt;</td>
+      <td>&lt;font color="gray"&gt;Ended&lt;/font&gt;</td>
+      <td>&lt;a href=/vcontest/vtl/../../userstatus.php?user=hqucst&gt;华大ACM队&lt;/a&gt;</td>
+    </tr>
+    <tr>
+      <td>2405</td>
+      <td>&lt;a href="/vcontest/vtl/vtl/userlogin/vtlid/2405"&gt;2011 Private Contest #01&lt;/a&gt;</td>
+      <td>2011-08-28 12:00:00</td>
+      <td>2011-08-28 17:00:00</td>
+      <td>&lt;font color="green"&gt;Private&lt;/font&gt;</td>
+      <td>&lt;font color="gray"&gt;Ended&lt;/font&gt;</td>
+      <td>&lt;a href=/vcontest/vtl/../../userstatus.php?user=Dextrom&gt;Dextrom&lt;/a&gt;</td>
+    </tr>
+    <tr>
+      <td>2410</td>
+      <td>&lt;a href="/vcontest/vtl/vtl/userlogin/vtlid/2410"&gt;just for fun&lt;/a&gt;</td>
+      <td>2011-08-28 12:00:00</td>
+      <td>2011-08-28 17:00:00</td>
+      <td>&lt;font color="green"&gt;Private&lt;/font&gt;</td>
+      <td>&lt;font color="gray"&gt;Ended&lt;/font&gt;</td>
+      <td>&lt;a href=/vcontest/vtl/../../userstatus.php?user=cse_acm_jsh&gt;宋公明&lt;/a&gt;</td>
+    </tr>
+    <tr>
+      <td>2413</td>
+      <td>&lt;a href="/vcontest/vtl/problemlist/showproblemlist/vtlid/2413"&gt;asd&lt;/a&gt;</td>
+      <td>2011-08-28 11:06:00</td>
+      <td>2011-08-28 16:06:00</td>
+      <td>&lt;font color="red"&gt;Public&lt;/font&gt;</td>
+      <td>&lt;font color="gray"&gt;Ended&lt;/font&gt;</td>
+      <td>&lt;a href=/vcontest/vtl/../../userstatus.php?user=swm8023&gt;swm8023&lt;/a&gt;</td>
+    </tr>
+    <tr>
+      <td>2411</td>
+      <td>&lt;a href="/vcontest/vtl/problemlist/showproblemlist/vtlid/2411"&gt;JustComeOn&lt;/a&gt;</td>
+      <td>2011-08-27 20:00:00</td>
+      <td>2011-08-28 01:00:00</td>
+      <td>&lt;font color="red"&gt;Public&lt;/font&gt;</td>
+      <td>&lt;font color="gray"&gt;Ended&lt;/font&gt;</td>
+      <td>&lt;a href=/vcontest/vtl/../../userstatus.php?user=luzihao&gt;UESTC_Nowitzki&lt;/a&gt;</td>
+    </tr>
+    <tr>
+      <td>2409</td>
+      <td>&lt;a href="/vcontest/vtl/problemlist/showproblemlist/vtlid/2409"&gt;The 35th ACM/ICPC Asia Regional Hangzhou Site――Online Contest&lt;/a&gt;</td>
+      <td>2011-08-27 19:00:00</td>
+      <td>2011-08-28 00:00:00</td>
+      <td>&lt;font color="red"&gt;Public&lt;/font&gt;</td>
+      <td>&lt;font color="gray"&gt;Ended&lt;/font&gt;</td>
+      <td>&lt;a href=/vcontest/vtl/../../userstatus.php?user=kuangbin&gt;巨星之路&lt;/a&gt;</td>
+    </tr>
+    <tr>
+      <td>2408</td>
+      <td>&lt;a href="/vcontest/vtl/vtl/userlogin/vtlid/2408"&gt;ZHENG&lt;/a&gt;</td>
+      <td>2011-08-27 14:05:00</td>
+      <td>2011-08-27 18:05:00</td>
+      <td>&lt;font color="green"&gt;Private&lt;/font&gt;</td>
+      <td>&lt;font color="gray"&gt;Ended&lt;/font&gt;</td>
+      <td>&lt;a href=/vcontest/vtl/../../userstatus.php?user=417767830&gt;417767830&lt;/a&gt;</td>
+    </tr>
+  </tbody>
+</table>
